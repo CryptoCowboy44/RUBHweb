@@ -72,10 +72,10 @@ Welcome to the most majestic corner of the blockchain where unicorns scream rain
 
 ## 📱 Social Links
 
-- **Twitter**: [@rainbow_no_homo](https://x.com/rainbow_no_homo)
-- **Reddit**: [r/rainbow_no_homo](https://www.reddit.com/user/rainbow_no_homo/)
-- **TikTok**: [@rainbow_no_homo](https://www.tiktok.com/@rainbow_no_homo?lang=en)
-- **DexScreener**: [View Chart](https://dexscreener.com/)
+# - **Twitter**: [@rainbow_no_homo](https://x.com/rainbow_no_homo)
+# - **Reddit**: [r/rainbow_no_homo](https://www.reddit.com/user/rainbow_no_homo/)
+# - **TikTok**: [@rainbow_no_homo](https://www.tiktok.com/@rainbow_no_homo?lang=en)
+# - **DexScreener**: [View Chart](https://dexscreener.com/)
 
 ## ⚠️ Disclaimer
 
